@@ -1,5 +1,3 @@
-# verifi-assignment
-
 # get_weather.py
 A simple script you can use to check the weather by city name or zip code
 
